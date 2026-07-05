@@ -1,0 +1,19 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile footer</title>
+  <desc id="desc">A muted wave footer matching the profile header.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#263142"/>
+      <stop offset="0.48" stop-color="#344256"/>
+      <stop offset="1" stop-color="#4A6078"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="42" x2="1200" y2="42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.84"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.58"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.78"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" rx="8" fill="url(#bg)"/>
+  <path d="M0 38C162 66 310 58 455 48C631 36 781 35 941 50C1048 60 1134 72 1200 82V0H0V38Z" fill="url(#fade)"/>
+  <path d="M0 62C180 35 347 57 519 56C715 55 834 33 1018 44C1092 48 1154 59 1200 68V0H0V62Z" fill="#FFFFFF" fill-opacity="0.28"/>
+</svg>

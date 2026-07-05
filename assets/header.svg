@@ -1,0 +1,19 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile banner</title>
+  <desc id="desc">Muted abstract banner for a GitHub profile README.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#263142"/>
+      <stop offset="0.48" stop-color="#344256"/>
+      <stop offset="1" stop-color="#4A6078"/>
+    </linearGradient>
+    <linearGradient id="soft" x1="0" y1="92" x2="1200" y2="92" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#111827" stop-opacity="0.62"/>
+      <stop offset="0.55" stop-color="#172033" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#0F172A" stop-opacity="0.58"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" rx="8" fill="url(#bg)"/>
+  <path d="M0 82C145 98 267 92 386 88C565 83 675 94 829 84C978 74 1100 82 1200 102V120H0V82Z" fill="#1C2133" fill-opacity="0.48"/>
+  <path d="M0 102C172 83 335 97 501 94C704 91 806 76 1004 86C1073 90 1140 97 1200 108V120H0V102Z" fill="url(#soft)"/>
+</svg>
