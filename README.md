@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  Intern IAM Engineer at AuthTake.
+  IAM Engineer Intern at AuthTake.
 </h3>
 
 <h4 align="center">
