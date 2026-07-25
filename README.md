@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-     IAM Specialist at AuthTake.
+    IAM Specialist at AuthTake.
 </h3>
 
 <h4 align="center">
