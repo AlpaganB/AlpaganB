@@ -54,7 +54,7 @@
 ## Current
 
 - Computer Engineering student at Kırıkkale University.
-- Intern IAM Engineer at [AuthTake](https://authtake.com).
+- IAM Specialist at [AuthTake](https://authtake.com).
 - Team Lead at [Stack Eleven](https://stack-11.com), building INTOPASS and QR Attendance.
 - Team Lead and Full Stack Developer with the [NovaPulse hackathon team](https://www.spaceappschallenge.org/2025/find-a-team/novapulse/).
 
